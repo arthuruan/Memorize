@@ -55,8 +55,8 @@
 		CBC9AD2B28822C0C00996D17 /* Memorize */ = {
 			isa = PBXGroup;
 			children = (
-				CB03F2C028864CF7009C2D5A /* EmojiMemoryGame.swift */,
 				CB03F2BE28864ABE009C2D5A /* MemoryGame.swift */,
+				CB03F2C028864CF7009C2D5A /* EmojiMemoryGame.swift */,
 				CBC9AD2E28822C0C00996D17 /* ContentView.swift */,
 				CBC9AD2C28822C0C00996D17 /* MemorizeApp.swift */,
 				CBC9AD3028822C1100996D17 /* Assets.xcassets */,
